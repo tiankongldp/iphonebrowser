@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayApplePNG", "DisplayApplePNG\DisplayApplePNG.csproj", "{C1E22B86-7BD7-4D66-BACE-4A7B1324C040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodePNG", "DecodePNG\DecodePNG.csproj", "{EE52D150-51CF-4967-BEC2-80C46D499256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCW_iPhonePNG", "SCW_iPhonePNG\SCW_iPhonePNG.csproj", "{E85E88FC-5B38-424F-AA49-19CAF50F65F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E22B86-7BD7-4D66-BACE-4A7B1324C040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E22B86-7BD7-4D66-BACE-4A7B1324C040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E22B86-7BD7-4D66-BACE-4A7B1324C040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E22B86-7BD7-4D66-BACE-4A7B1324C040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE52D150-51CF-4967-BEC2-80C46D499256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE52D150-51CF-4967-BEC2-80C46D499256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE52D150-51CF-4967-BEC2-80C46D499256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE52D150-51CF-4967-BEC2-80C46D499256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85E88FC-5B38-424F-AA49-19CAF50F65F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85E88FC-5B38-424F-AA49-19CAF50F65F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85E88FC-5B38-424F-AA49-19CAF50F65F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85E88FC-5B38-424F-AA49-19CAF50F65F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
